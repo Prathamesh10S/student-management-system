@@ -32,7 +32,7 @@ The main objective of this project is to demonstrate the development of a comple
 │ └── templates/
 
 # 🛠️ Tech Stack
-- Java 16
+- Java 24
 - Spring Boot
 - Spring MVC
 - Spring Data JPA (Hibernate)
@@ -68,18 +68,4 @@ The main objective of this project is to demonstrate the development of a comple
   # Open a browser and navigate to:
   http://localhost:8080/students
 
-## ScreenShots
-
-<img width="1920" height="1003" alt="image" src="https://github.com/user-attachments/assets/32d96f54-f7fc-425e-9981-3a2c2be36b56" />
-
-<img width="1920" height="1003" alt="image" src="https://github.com/user-attachments/assets/e55fa24c-4ad0-4f04-9238-d6136c2f46bf" />
-
-<img width="1920" height="1003" alt="image" src="https://github.com/user-attachments/assets/bbb1b5f2-2127-48be-9058-722521a28985" />
-
 Thank You!
-
-
-
-
-
-
